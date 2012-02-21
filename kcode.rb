@@ -1,0 +1,1 @@
+print("KCODE=", $KCODE);
